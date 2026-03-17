@@ -1,35 +1,27 @@
-🥦 Sistema de Gerenciamento Horti-Fruti
+🥦 Sistema Horti-Fruti
 
-Aplicação desktop desenvolvida em Java para gerenciamento de produtos de um horti-fruti, permitindo cadastrar, consultar e excluir produtos através de uma interface gráfica integrada a banco de dados.
+Sistema web desenvolvido para gerenciamento de produtos de um horti-fruti, permitindo cadastrar, visualizar e remover itens através de uma interface simples e interativa.
 
 📌 Sobre o Projeto
 
-O Sistema de Gerenciamento Horti-Fruti foi desenvolvido como parte de um Projeto Integrador, com o objetivo de aplicar conceitos importantes de desenvolvimento de software, como arquitetura de sistemas, persistência de dados e criação de interfaces gráficas.
+O Sistema Horti-Fruti foi desenvolvido como parte de um Projeto Integrador, com o objetivo de aplicar conceitos fundamentais de desenvolvimento web.
 
-O sistema permite controlar produtos de um horti-fruti (como frutas, verduras e legumes), armazenando as informações em um banco de dados relacional.
+A aplicação permite organizar produtos como frutas, verduras e legumes, facilitando o controle e visualização das informações.
 
 🚀 Tecnologias Utilizadas
 
-* Java
+* HTML – Estrutura da aplicação
 
-* Java Swing – Interface gráfica
+* CSS – Estilização da interface
 
-* PostgreSQL – Banco de dados relacional
-
-* JDBC – Conexão com banco de dados
-
-* Arquitetura MVC (Model-View-Controller)
-
-* Padrão de Projeto Singleton
+* JavaScript – Lógica e interatividade da aplicação
 
 ⚙️ Funcionalidades
 
-✅ Cadastro de produtos (frutas, verduras e legumes)
+✅ Cadastro de produtos
 
-✅ Consulta/listagem de produtos
+✅ Listagem de produtos cadastrados
 
-✅ Exclusão de produtos
+✅ Remoção de produtos
 
-✅ Interface gráfica para interação com o usuário
-
-✅ Persistência de dados em banco relacional
+✅ Interface web simples e interativa
